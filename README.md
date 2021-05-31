@@ -8,7 +8,7 @@ Whitelisted tokens do not show possible scam notification before swapping and al
 
 ### If you want your token to be whitelisted
 
-The team can review your request for whitelisting your token in Polkaswap.
+Your request for whitelisting your token in Polkaswap can be reviewed in this repository.
 For that: 
 
 1. Follow the link to see the file: https://github.com/sora-xor/polkaswap-token-whitelist-config/blob/e4d85072859b9d575e4de211f5b3b0286f05984d/whitelist.json
@@ -20,4 +20,4 @@ For that:
     1. "decimals": number of numbers on the right from the decimal point
     1. "icon": icon of the token in SVG
 1. Create a PR into this repository by adding lines to the file, representing your token
-     > If some of the questions in the template are not replied to (except for the optional one), we will not be able to review your request. 
+     > If some of the questions in the template are not replied to (except for the optional one), it will not be possible to review your request. 
