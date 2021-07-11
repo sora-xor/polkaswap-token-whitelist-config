@@ -1,5 +1,4 @@
 # polkaswap-token-whitelist-config
-This repository is managed by Terraform!
 
 ## Welcome to the Polkaswap Whitelisted Token Configuration Repository!
 
