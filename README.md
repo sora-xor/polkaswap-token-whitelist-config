@@ -10,8 +10,8 @@ Whitelisted tokens do not show possible scam notification before swapping and al
 Your request for whitelisting your token in Polkaswap can be reviewed in this repository.
 For that: 
 
-1. Follow the link to see the file: https://github.com/sora-xor/polkaswap-token-whitelist-config/blob/e4d85072859b9d575e4de211f5b3b0286f05984d/whitelist.json
-1. Clone the repository (or use the GitHub interface) to make changes to the file.
+1. The whitelist is in `whitelist.json`
+1. Clone the repository (or use the GitHub interface) to make changes to `whitelist.json`.
 1. Add the necessary information: 
 	1. "symbol": the symbol of the token. For example, "VAL".
     1. "name": name of the token. For example, "SORA Validator Token"
