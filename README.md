@@ -14,7 +14,7 @@ For that:
 1. Clone the repository (or use the GitHub interface) to make changes to `whitelist.json`.
 1. Add the necessary information: 
 	1. "symbol": the symbol of the token. For example, "VAL".
-    1. "name": name of the token. For example, "SORA Validator Token"
+    1. "name": name of the token. For example, "SORA Validator"
     1. "address": SORA asset ID in the "0x..." format
     1. "decimals": number of numbers on the right from the decimal point. It can be only `18` for now.
     1. "icon": icon of the token in SVG
